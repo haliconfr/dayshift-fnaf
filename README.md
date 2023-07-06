@@ -30,3 +30,8 @@ Features:
 Enemy 3D models and some set piece models are not made by me! If you're using them it's probably not safe to monetise your game.
 
 All code and 2d assets are free to use though! No credit needed :)
+
+3D models used can be found here -
+https://drive.google.com/file/d/1Wc9DfBzK6TTJdr1llv20O2DcPly_LXls/view?usp=sharing
+
+Just put the Models folder in the Assets folder.
