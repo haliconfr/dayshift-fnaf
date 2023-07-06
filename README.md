@@ -1,4 +1,4 @@
-# fnaf-fangame
+# Dayshift - FNAF Template
 Five Nights at Freddy's Fangame Template
 
 Features:
