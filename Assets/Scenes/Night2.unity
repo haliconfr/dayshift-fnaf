@@ -1118,11 +1118,11 @@ GameObject:
   - component: {fileID: 84972818}
   m_Layer: 5
   m_Name: Image (4)
-  m_TagString: Untagged
+  m_TagString: PlateIcon
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &84972817
 RectTransform:
   m_ObjectHideFlags: 0
@@ -6976,11 +6976,11 @@ GameObject:
   - component: {fileID: 390935794}
   m_Layer: 5
   m_Name: Image (10)
-  m_TagString: Untagged
+  m_TagString: PlateIcon
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &390935793
 RectTransform:
   m_ObjectHideFlags: 0
@@ -11775,6 +11775,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 8
   item: {fileID: 0}
+  canvas: {fileID: 0}
   plateIcons:
   - {fileID: 84972816}
   - {fileID: 1783320815}
@@ -18088,11 +18089,11 @@ GameObject:
   - component: {fileID: 858025945}
   m_Layer: 5
   m_Name: Image (7)
-  m_TagString: Untagged
+  m_TagString: PlateIcon
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &858025944
 RectTransform:
   m_ObjectHideFlags: 0
@@ -21099,11 +21100,11 @@ GameObject:
   - component: {fileID: 1061592820}
   m_Layer: 5
   m_Name: Image (8)
-  m_TagString: Untagged
+  m_TagString: PlateIcon
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1061592819
 RectTransform:
   m_ObjectHideFlags: 0
@@ -25524,11 +25525,11 @@ GameObject:
   - component: {fileID: 1447794139}
   m_Layer: 5
   m_Name: Image (13)
-  m_TagString: Untagged
+  m_TagString: PlateIcon
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1447794138
 RectTransform:
   m_ObjectHideFlags: 0
@@ -30265,11 +30266,11 @@ GameObject:
   - component: {fileID: 1586008075}
   m_Layer: 5
   m_Name: Image (11)
-  m_TagString: Untagged
+  m_TagString: PlateIcon
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1586008074
 RectTransform:
   m_ObjectHideFlags: 0
@@ -30807,11 +30808,11 @@ GameObject:
   - component: {fileID: 1615180843}
   m_Layer: 5
   m_Name: Image (9)
-  m_TagString: Untagged
+  m_TagString: PlateIcon
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1615180842
 RectTransform:
   m_ObjectHideFlags: 0
@@ -35169,11 +35170,11 @@ GameObject:
   - component: {fileID: 1783320817}
   m_Layer: 5
   m_Name: Image (5)
-  m_TagString: Untagged
+  m_TagString: PlateIcon
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1783320816
 RectTransform:
   m_ObjectHideFlags: 0
@@ -36226,11 +36227,11 @@ GameObject:
   - component: {fileID: 1834936716}
   m_Layer: 5
   m_Name: Image (12)
-  m_TagString: Untagged
+  m_TagString: PlateIcon
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1834936715
 RectTransform:
   m_ObjectHideFlags: 0
@@ -36306,11 +36307,11 @@ GameObject:
   - component: {fileID: 1868526841}
   m_Layer: 5
   m_Name: Image (6)
-  m_TagString: Untagged
+  m_TagString: PlateIcon
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1868526840
 RectTransform:
   m_ObjectHideFlags: 0
@@ -37785,6 +37786,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 8
   item: {fileID: 0}
+  canvas: {fileID: 0}
   plateIcons: []
   placedIcon: {fileID: 0}
   grab: {fileID: 1959576028}
@@ -39363,6 +39365,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 8
   item: {fileID: 0}
+  canvas: {fileID: 0}
   plateIcons: []
   placedIcon: {fileID: 0}
   grab: {fileID: 2034235547}

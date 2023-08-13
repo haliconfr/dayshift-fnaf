@@ -8,13 +8,19 @@ public class PickUpItem : MonoBehaviour
     public string carrying;
     public Transform camera;
     public LayerMask interact;
-    public GameObject item;
+    public GameObject item, canvas;
     public GameObject[] plateIcons;
     public Sprite placedIcon;
     public AudioSource grab, place;
     public int placed = 0;
+    int i = 0;
     void Start(){
-        plateIcons = new GameObject[10];
+        plateIcons = GameObject.FindGameObjectsWithTag("PlateIcon");
+        foreach(GameObject obj in plateIcons){
+            plateIcons[i].SetActive(false);
+            Debug.Log(plateIcons[i].name);
+            i++;
+        }
     }
     void Update()
     {
@@ -26,7 +32,6 @@ public class PickUpItem : MonoBehaviour
                         item = hit.collider.gameObject;
                         item.transform.position = new Vector3(0, -99, 0);
                         grab.Play();
-                        Debug.Log(placed);
                         plateIcons[placed].SetActive(true);
                     }
                 }
