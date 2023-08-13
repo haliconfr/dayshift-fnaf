@@ -37,4 +37,4 @@ All code and 2d assets are free to use though! No credit needed :)
 3D models used can be found here -
 https://drive.google.com/file/d/1Wc9DfBzK6TTJdr1llv20O2DcPly_LXls/view?usp=sharing
 
-Just put the Models folder in the Assets folder.
+Just put the Models folder in the Assets folder. Also needs TextMeshPro.
