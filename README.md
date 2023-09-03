@@ -11,11 +11,7 @@ Features:
 
 - Detailed enemy animations
 
-- Path tracing lights with dust effects
-
 - First-person movement complete with view bobbing and interaction with items
-
-- Diegetic sound effects that react with the world
 
 - Two fully developed levels with enemies and an end goal
 
@@ -23,7 +19,7 @@ Features:
 
 - High quality lighting and rendering using Unity's HDRP
 
-- Interesting loading screens, fully developed menu and soundtrack
+- Interesting loading screens, fully developed menu, soundtrack and sound effects
 
 - Developed enemy AI with pathfinding and target chasing
 
