@@ -23,7 +23,7 @@ Features:
 
 - Developed enemy AI with pathfinding and target chasing
 
-- Animated jumpscares and death screen
+- Animated jumpscares
 
 This was a pretty quick thing so it probably won't be very well optimized.
 Enemy 3D models and some set piece models are not made by me! If you're using them it's probably not safe to monetise your game.
