@@ -1,5 +1,5 @@
 # Dayshift - FNAF Template
-Five Nights at Freddy's Fangame Template
+Freeroam Five Nights at Freddy's Fangame Template
 
 ![night one help](https://github.com/maxtearney/dayshift-fnaf/assets/88261993/a012018b-23a8-430a-adbb-009bd038bf53)
 
